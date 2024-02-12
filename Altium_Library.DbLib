@@ -44,6 +44,9 @@ TableName=Connectors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=118|Description0=287|Value0=118|Package0=65|Pitch0=48|Voltage0=63|Current0=62|Structure0=70|Supported protocol0=125|Manifacturer0=115|Footprint Ref0=209|Footprint Path0=136|Library Ref0=123|Library Path0=180|ComponentLink1Description0=170|ComponentLink1URL0=507|ComponentLink2Description0=170|ComponentLink2URL0=131
 [Table5]
 SchemaName=
 TableName=Crystals$
@@ -56,18 +59,27 @@ TableName=Gate Drivers$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Description0=296|Value0=77|Package0=65|Type0=79|Supply Voltage0=101|Tj0=36|Low-Level Input Voltage (min)0=175|High-Level Input Voltage (max)0=180|Propagation delay (max)0=146|Manifacturer0=89|Footprint Ref0=92|Footprint Path0=136|Library Ref0=155|Library Path0=180|ComponentLink1Description0=170|ComponentLink1URL0=454|ComponentLink2Description0=170|ComponentLink2URL0=131
 [Table7]
 SchemaName=
 TableName=ICs$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=92|Description0=231|Value0=92|Package0=65|Type0=111|Supply Voltage0=101|Tj0=39|Manifacturer0=104|Footprint Ref0=92|Footprint Path0=136|Library Ref0=125|Library Path0=180|ComponentLink1Description0=170|ComponentLink1URL0=951|ComponentLink2Description0=170|ComponentLink2URL0=131
 [Table8]
 SchemaName=
 TableName=Inductors$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=111|Description0=219|Value0=52|Irated0=53|Isat0=41|Package0=118|Manifacturer0=103|Footprint Ref0=135|Footprint Path0=136|Library Ref0=77|Library Path0=180|ComponentLink1Description0=170|ComponentLink1URL0=131|ComponentLink2Description0=170|ComponentLink2URL0=131
 [Table9]
 SchemaName=
 TableName=LDOs$
